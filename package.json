@@ -17,6 +17,9 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-horizontal-timeline": "^1.5.3",
+    "react-id-swiper": "^4.0.0",
+    "react-player": "^2.7.0",
+    "react-slick": "^0.27.13",
     "reactstrap": "^8.7.1",
     "slick-carousel": "^1.8.1",
     "swiper": "^6.3.5"
